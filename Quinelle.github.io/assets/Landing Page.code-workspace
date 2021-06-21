@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Test",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Complete_HTML_CSS_Blog_Website-main",
+		"maven.view": "flat"
+	}
+}
